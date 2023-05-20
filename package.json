@@ -1,0 +1,14 @@
+{
+  "name": "pagefetcher",
+  "version": "1.0.0",
+  "description": "Download html from a url",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prestin Liu",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
